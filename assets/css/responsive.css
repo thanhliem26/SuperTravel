@@ -1,0 +1,17 @@
+@media (min-width: 1024px) {
+    
+}
+@media (min-width: 740px) and (max-width: 1023px){
+    .app {
+        width: 1275px;
+    }
+    .header__navbar {
+        width: 100%;
+    }
+}
+@media (max-width: 740px) {
+    .app {
+        width: 1280px;
+      
+    }
+}
